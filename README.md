@@ -103,4 +103,4 @@ These results are surfaced in a "Validation details" panel in the app so it's tr
 
 ## Author
 
-Built by Waleed Ahmad as part of an ongoing LLM & Generative AI learning roadmap, alongside a separate multi-agent Data Analyst System (CrewAI + Streamlit).
+**Waleed ahmad** — Data Science  student, building agentic AI systems as part of a hands-on learning journey.
